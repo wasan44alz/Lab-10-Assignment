@@ -1,0 +1,83 @@
+Hi, This is the Name Game.
+You will be given a set of English letters in which you will add, delete or move to create your name.
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice... 1
+Current letters: [a,b,c]
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice... 2
+Enter a letter: d
+Current letters: [a,b,c,d]
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice... 3
+Enter a letter: c
+Current letters: [c,a,b,d]
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice... 4
+Enter a letter: a
+Current letters: [c,b,d,a]
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice... 5
+Enter a letter: b
+Current letters: [c,d,a]
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice... 6
+Current letters: []
+
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice... 7
+Goodbye!
